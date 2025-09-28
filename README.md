@@ -29,5 +29,3 @@ Chức năng chính:
 - **Thư viện:** Standard Peripheral Library (SPL).
 
 ---
-
-## 📂 Cấu trúc file
